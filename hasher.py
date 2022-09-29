@@ -1,3 +1,5 @@
+#Мигель АДживапаев 1 репозиторий
+
 import sublime_plugin
 import binascii
 import hashlib
